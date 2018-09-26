@@ -1,2 +1,6 @@
 Haha need a line
+<<<<<<< HEAD
 ree is a bad commit name
+=======
+Second line? BOO
+>>>>>>> 4b8b59158c01972242af18a1efc72ce2e099c52a
